@@ -4,7 +4,7 @@
 
 ## Как запустить
 
-Перейти на GitPages
+Перейти на GithubPages https://veldoraweb.github.io/math-bot-web/
 
 ## Команды
 | Команда | Действие |
